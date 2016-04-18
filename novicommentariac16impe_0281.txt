@@ -1,0 +1,41 @@
+FORMVLARVM DIFFERENTIALIVM. 211
+
+mox liquet quomodo integratio vlterius continuari
+possit, x-bi quidem notari meretur ‚ fi ex aequatio-
+ne vnde λ determinatur ‚ illa tot sortiatur valores
+diuersos , quoti gradus aequatio differentialis propo-
+stta est , inde fieri vt pro fingulis x'aloribus ipsius).
+inueniantur aequatioues diffirentiales gradus proxime
+instrioris, per quarum igitur debitam inter se com-
+binat?oncm‚ aequatio tandem eruetur, quae solas
+
+quantitates finitas a· cty inuoluit. Verum huie rei
+explitandae diutius inhaerere minus necesse ducimus,
+praeprimis quod artificia in huius aequationis inte-
+gratione adhibenda ‚ iam accurate sint exposita. Vid.
+lllussr. Euleri Calcul. Integ. Vol. II. p. 483. et seqq.
+
+23. Pro formula differentiali:
+ddy-i-Kdydx-i-Lydx²
+
+vbi K et L quascunque funffiones ipfius x designant,
+
+quaeratur iam multiplicator <D eam integrabilem red-
+dens, Quum vero fit
+
+vchoq-i-Kp-i-Ly), erit
+
+M :(3{)<q—i-1<p—i-Ly)÷<D(p3—¹{÷y3¹—ss>
+
+N:(3-3)<q÷1<p÷ Ly> —i- <DL
+
+P z <ji-{im —i— Ι( p -i- Ly) -4— <D K3 Q: <1³-
+At pro integr-abilitate formulae propositae habetur
+
+N — 3-52 ψ 21—-2 0
+
+substitutis igitur valoribus supra iuuentiS , hanc conss'
+sequemur aequationem:
+
+Dd2 ΦΨ
+

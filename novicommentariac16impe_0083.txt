@@ -1,0 +1,38 @@
+m PLANVM ExchRE mem. ἰς
+
+oa tres variabiles x, y et z vbique eundem dimen-
+sionum nutrcrum adimpleant. Quodsi vna ceord-
+natarum x, y, z in infinitum abeat, aequatio pro
+solido duas tantum reliquas implicabit coordinatas,
+
+quod est criterium corporum cylindricorum.
+
+*m 19. Aliis solidis nostro problemati satisfacien-
+
+tibus hic euoluendis non immoramur3 quum infra
+vbi tertiam Methodum trademus, multo facilius
+turcia huiusmodi corporum genera cognoscere quea-
+mus. interea dum ista secunda Methodus , tam fa·
+cilem nobis suppeditauit solutionem ‚ cum per Me-
+thodum priorem vix vllam solutionem sperare li-
+cuiffet3 nunc etiam priorem solutr'oncm vbcriuseuol·
+vere atque adeo formulas illas analyticas primo in,
+tuitu summopere arduas , resoluere poterimus vnde
+in Analysin plurimum lucis inuretur. Ad hoc
+praestandum tantum opus erit, vt hauc posteriorem
+iolutionem ad clementa prioris sollicite reuocemus.
+
+Applicatio Methodi posterioris ad solutio·
+nem priorem.
+
+20. Quoniam in posteriori solutione iarn for*
+mulas pro ternis coordinatis x, y et z quibus natu-
+ra solidi continetur, elicuimus, in eo nobis erit
+elaborandum vt etiam formulas pro figura plana ia
+quam superficies solidi expiicatur ‚ inuestigemus. Hic
+ante omnia curua illa duplicis curuaturae h V v ac·
+curatius est perpendenda , quippe qnae per explica-
+tionem illius superficiei etiam ad planum perduci-
+
+B 3 tur.
+

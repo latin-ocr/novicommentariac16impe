@@ -1,0 +1,34 @@
+182 DE emmaus INTEGRABILIT. .
+
+ea quae tum a nobis allata fuere, generaliter locum
+habeant, qualiscunque quantitas V concipiatur esse
+functio ipsorum x, y, z et differentialium inde pen-
+dentium, tamen quum potiffimum ad eos catus
+pertinere videantur, quibu> V est functio algebraica‚
+nullam scilicet tormulam integralem ipsa iiiuolnens,
+hoc loco haud iniucundum sore arbitrati sumus
+fufius exponere ‚ quae criteria integrabilitatis locum
+habere debeant pro casu formulae differentialis dn-
+plicatae V‘dx dy, vbi V¹ statuitur :sV dxdy ,
+⁵imprimis quum aequatioiie5‚ quibus haec criteria
+continentur mirabili quadam concinnitate et prae-
+stantia se commendare videantur. Statuamus igitur
+vti antea § 21. Differt. I.
+
+dVZde—1—Ndz—÷—P dp ÷Q dq ÷R dr -ξ- etc.
+†Mdy —i-k'dff—i-Q‘ disq-1³¹ ἀν’
+÷Q¹‘dq“-†-R“ dr“
+÷Rmdrlll
+et tum quidem quia euidens est de dy integrale
+admittere non posse ‚ nist formula quoque V dx dy
+fit integramus, Facile intelligitur ante omnia requi-
+ri , vt aequ-itionibus §. 33. Differt I satisfiat. Vt
+vero conditiones quoque inueniuntur ‚ quac pro in-
+tegrnbilitatc formulae V‘ d x dy speciatim praescriben-
+dae sunt ‚ ponamus: ¹
+dV121M.1·-i-vdz-÷—7r dp ψη dq —i- ξ dr 4- etc.
+—kfssdy -†-7t¹dp¹—†-›t'dq¹—†-g¹dr‘
+-}-½¹¹dq‘¹—†-g>“dr'‘
+›i-gmdrm
+tum
+

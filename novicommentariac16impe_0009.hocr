@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novicommentariac16impe_0009.png"; bbox 0 0 1852 2730; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 279 919 1370 1160">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 279 919 1370 1160">
+     <span class='ocr_line' id='line_1_1' title="bbox 494 919 1162 995; baseline -0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 494 919 1162 995; x_wconf 87' lang='lat' dir='ltr'><strong>SVMMARIVM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 279 1055 1370 1160; baseline 0.003 -19"><span class='ocrx_word' id='word_1_2' title='bbox 279 1055 1370 1160; x_wconf 80' lang='lat' dir='ltr'><strong>DISSERTATIONVM‚</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 528 1212 1123 1268">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 528 1212 1123 1268">
+     <span class='ocr_line' id='line_1_3' title="bbox 528 1212 1123 1268; baseline 0.003 -15"><span class='ocrx_word' id='word_1_3' title='bbox 528 1212 702 1268; x_wconf 85' lang='lat' dir='ltr'><strong>QVAS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 754 1213 1123 1256; x_wconf 82' lang='lat' dir='ltr'>CONTINET</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 189 1317 1462 1504">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 189 1317 1462 1504">
+     <span class='ocr_line' id='line_1_4' title="bbox 189 1317 1462 1388; baseline 0.005 -8"><span class='ocrx_word' id='word_1_5' title='bbox 189 1317 245 1380; x_wconf 91' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_6' title='bbox 250 1317 616 1382; x_wconf 86' lang='lat' dir='ltr'>OVORVM</span> <span class='ocrx_word' id='word_1_7' title='bbox 639 1321 1462 1388; x_wconf 79' lang='lat' dir='ltr'>COMMENTARIORVM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 603 1459 1059 1504; baseline 0.004 -2"><span class='ocrx_word' id='word_1_8' title='bbox 603 1460 642 1502; x_wconf 76' lang='lat' dir='ltr'><strong>&#39;r</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 662 1460 703 1503; x_wconf 91' lang='grc' dir='ltr'>ο</span> <span class='ocrx_word' id='word_1_10' title='bbox 722 1460 771 1504; x_wconf 84' lang='grc' dir='ltr'><strong>Μ</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 792 1461 830 1503; x_wconf 91' lang='lat' dir='ltr'><strong>v</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 846 1459 875 1504; x_wconf 88' lang='lat' dir='ltr'>s</span> <span class='ocrx_word' id='word_1_13' title='bbox 937 1459 1059 1504; x_wconf 66' lang='lat' dir='ltr'><strong>xm.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1220 2284 1452 2329">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1220 2284 1452 2329">
+     <span class='ocr_line' id='line_1_6' title="bbox 1220 2284 1452 2329; baseline 0.004 -1"><span class='ocrx_word' id='word_1_14' title='bbox 1220 2284 1452 2329; x_wconf 71' lang='lat' dir='ltr'><strong>MATRE·</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

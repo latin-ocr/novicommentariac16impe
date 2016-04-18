@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novicommentariac16impe_0799.png"; bbox 0 0 1852 2730; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 310 452 1446 505">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 310 452 1446 505">
+     <span class='ocr_line' id='line_1_1' title="bbox 310 452 1446 505; baseline -0.018 -1"><span class='ocrx_word' id='word_1_1' title='bbox 310 468 404 505; x_wconf 57' lang='lat'><em>„2322</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 420 498 424 501; x_wconf 97' lang='lat'>.</span> <span class='ocrx_word' id='word_1_3' title='bbox 453 469 653 502; x_wconf 53' lang='lat' dir='ltr'><em>§ammana</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 671 463 798 500; x_wconf 44' lang='lat' dir='ltr'><em>⁴44⁷aeAE</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 825 487 831 495; x_wconf 89' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 841 465 879 495; x_wconf 51' lang='grc' dir='ltr'><em>Τῷ.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 897 457 1087 501; x_wconf 60' lang='grc' dir='ltr'><em>.·ἧ’»ή·()τ’σί</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1095 452 1384 491; x_wconf 59' lang='lat' dir='ltr'><em>„75712.Xt1&#39;l..,7‹}b.</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1398 458 1446 484; x_wconf 58' lang='lat' dir='ltr'><em>JV.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 227 1458 814 1955">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 227 1458 814 1955">
+     <span class='ocr_line' id='line_1_2' title="bbox 227 1458 814 1955; baseline 0 775"><span class='ocrx_word' id='word_1_10' title='bbox 227 1458 814 1955; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

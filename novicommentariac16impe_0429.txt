@@ -1,0 +1,39 @@
+AERIS IN TVBIS. 359
+
+sumto crgo interuallo 1 Α z ⁸: ‚ et posito Α S z S
+
+ob ιεΞα-ῗὲέ, fiet ampntudo 52:52337‘37‘3, ideo-
+que ff: παατια, Quoties ergo tubus habuerit
+huiusmodi figuram commit-am hyperbolicam ‚ aeris
+agitationes in huiusmodi tubis, dummodo fint mi-
+nimae, perinde definiri poterunt, atque in tubis
+aequaliter amplis, Interim tamen ipsa motus deter-
+minatio aliquanto erit operosior. Ceterum hic ob-
+seruari conuenit aeris grauitatem, quam in superiori—
+bus capitibus negleximus ‚ inuestigationem plane non
+turbare: id quod etiam de aliis viribus, quae forte
+
+aerem sollicitarent cst tenendum.
+
+ 
+
+Prroblema 84.
+
+86. Inuestigare rationem qua tubi amplitudo
+debet effe comparata vt aequationis differentiodiffe·
+
+renti-alis integrale completum per secundam formam
+exhiberi potiit.
+
+SolutiO.
+
+Hic scilicet quaeritur indoles funetionis U a
+sola variabili S pendentis, vt aequationjs nostrae in·
+tegrale completum huiusmodi forma exprimi queat:
+
+sz÷Mj²2 (S÷ct)÷Ls: (S-l—ct)
+
+vbi L, Μ,Ο sint funstiones solius variabilis S. Fa-
+ciamus ergo substitutionem in nostra aequatione,
+ac reperiemus:
+

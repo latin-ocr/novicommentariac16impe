@@ -1,0 +1,35 @@
+»2013 C 0 ) 323³&- 23
+
+certo tamen multiplicatore adhibito ad integrabilita-
+tem perduci poffint ‚ pro huiusmodi enim -casibus
+vsus doctrinae de criteriis integrabilitatis insignis effe
+solet, ad hos multiplicatores detegendos. Et hinc
+quidem occasionem nactus est, generaliter demon·
+strarmi formulam differentialem homogeneam Rd x
+4—de fieri integrabilem, s1 diuidatur per Rx÷sy,
+Deinde formulae proponuntur differentialeS, quae tres
+variabiles x, y, z inuoluunt, quae iterum duplicis
+generis sunt , aut per se integrabiles , aut quae in
+certum multiplicatorem duc‘tae ad integrabilitatem
+perducuntur. Ex posteriori genere variae heic con·
+fiderautur formulae differentiales, homogeneae, pro
+quibus multiplicatores idonei eas ad integr-abilitatem
+perducentes inuestig-antur , tum vero demum genera-
+liter demonstratur formulam differentialem homoge-
+neam quamcunque primi gradus
+
+XA.2·÷Ydy-÷-Zdz-÷-Vdv etc.
+fieri integrabilem ss diuidatur per
+xx÷Yy÷Zz÷Vv‚
+
+quod tamen tantum sub ea conditione valet, quod
+,haec formula fit poffibilb ‚ uam quemadmodum quae·
+cunque formula differentialis binas variabiles inuol-
+vens Rdx -l- de, semper fit realiS, ita contra
+pro formulis differentialibus tres vel plures variabi-
+les inuoluentibus tenendum est ‚ eas non semper effe
+poffibiles sed certam praescribi conditionem ex qua
+de earum realitate iudici-um ferre licet. Quoties au-
+
+tem
+

@@ -1,0 +1,35 @@
+194 DE CRITERIIS INTEGRABILIT.
+
+grabili effe habendam ‚ siquidem huius formulae in-
+tegratio referenda 2st ad primam caiculi integralis
+partem , quae dc integratione formularum dszerenr
+tianium vncaui variabilem inuoluentium agit, cu· ·
+ius omnes oparatoues hoc in negotio pro concessls
+haberi debent. Liquet igitur multiplicatores idoneos
+formulae propositae qadx, generaliter hac expreffio-
+ne contineri ΦΓ :z leu ΦΓ;([Φ ῴᾱχ) hincque
+ex vnico mu tipiicatore (Ι) inuento, infinitam mul-
+titudinem deduci poise. lu inuestigando autem mul-
+tiplicatore (D, haec praescribenda videtur regu'la , vt
+semper simpliciffimus qui fieri poffit exquiratur,
+hoc est talis, qui minimum numerum variabilium
+x, y, p etc. inuoluit, sic fi proposita fuerit formula
+ssdx in qua ψ functio habetur ipsorum x‚y‚p,q‚
+fimplicissimus erit multiple-ator Φ, si ita compara-
+tus fit, vt vnicam tautum variabilem x inuoluat.
+Quodsi autem talem inuenire nou liceat, proxime
+inquirendum est, vrrum detur funCt‘io quaedam vel
+solius y vel ipsorum x et y per quam xiadx mul-
+tiplicata reddatur integr-abilis, cum autem neque hoc
+succedat, tum inquirendum crit ‚ an pro Φ accipe.
+re liceat fumstionem quandam ipsorum x, y, p?
+
+16. Proposita iam esto formula differentialis:
+dy-4-yvdx4-zdx
+vbi v et z quascunque funffiones ipfius x designant,
+quum autem hacc fcrmula per ie uon sit integrabi-
+lis, quod exa-minc instituto facile deprehendetur,
+
+quaeramus iam quantitatem pes quam multiplicata,
+’ ad
+

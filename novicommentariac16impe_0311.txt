@@ -1,0 +1,37 @@
+THEOREMAns ANALYTICI. 241
+
+quorum terminorum summa vt modo vidimus erat
+z ψ (x -θ- Τ).Δ
+
+lx. Hinc vero patet, quomodo praesens Theo·
+rema ad catum multo latius patentem adplicari de·
+beat , quo nimirum quaeritur valor funsttonis cuius·
+cunque ambarum variabilium x et t. Si igitur pro·
+possta sumit funecio ψ (x, t) ex ouantitatibus x et t,
+vtcunque compofim , confideremus primum t vt
+covstantcm , seu in hac funftioue loco ipfius x sub-
+stituan us α, tum autem per Theorema nostrum,
+quaeramus valorem ipssus ψ (α, x) , qui erit
+
+z ψ (α, t)÷ <Dc ψ’(α,τ)-ι- ἈἾ-ΖΨᾹῗ-Ἀ-ι- ΗζῐΦ-ᾗζψὲῗμ) 4. etc,
+
+post per216tas vero differentiationes loco α iterum
+introducatur t, atque iam expreffio hinc oriunda de·-
+fin et quantitatem funffionis ψ (3233). Quum enim
+ψ (x. t* fit fimilis {unffio ipsorum x ett,ac ψ (α, x)
+fit ipsorum α et x, liquet omnino, fi in valote
+postenoris fuustionis loco α inttoaucatur t, eam in
+priorem abire, ratio autem cur demum post per-
+aetas differenziationes t loco α introduximus, haec
+est, quod in valotibus differenti-al bus occurrat quan.-
+titas ψ’ (α,ι) , quae loco α ἰηῑῑοάιιᾶο t migrat in
+ψ’(ι,ι), in qua func‘tione quum prius t, vt con-
+stans haberi debeat, posterius vero pro variabili spe-
+Ctari , vt omnis eu1tet11r confufio , nvnec omnes dif-
+fcrentiationes absolutae fuerint. praestabit> α in locum
+ipfius t substituere. Vt vero huius affini ναίω-
+tem eo melius ob oculos ponere liceat , fac1li
+quodam exemplo id illustrare phcct. Sit igitur
+
+'1‘0m.XV1.b20u.Comm. H h 1:02·
+
